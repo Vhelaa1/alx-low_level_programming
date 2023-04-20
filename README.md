@@ -15,4 +15,4 @@ Each project contains a set of C source files and header files, along with a Mak
 
 ## *LICENSE*
 
-This code is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
+Feel free to use, modify, and distribute it as you see fit.
