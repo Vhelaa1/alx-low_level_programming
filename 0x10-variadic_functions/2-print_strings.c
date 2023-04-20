@@ -1,4 +1,5 @@
-#include "variadic_functions.h"
+#include <stdarg.h>
+#include <stdio.h>
 
 /**
  * print_sings - returns strings passed to the funct separed by separators
