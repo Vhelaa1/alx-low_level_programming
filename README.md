@@ -13,6 +13,3 @@ This repository contains the source code for various low-level programming proje
 
 Each project contains a set of C source files and header files, along with a Makefile for building the project.
 
-## *LICENSE*
-
-Feel free to use, modify, and distribute it as you see fit.
